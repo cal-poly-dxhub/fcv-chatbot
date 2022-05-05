@@ -1,0 +1,296 @@
+{
+  "totalFeedback": 21,
+  "typesOfFeedback": {
+    "serviceFeedback": 2,
+    "doctorFeedback": 2,
+    "medFeedback": 6,
+    "otherFeedback": 5,
+    "unknownFeedback": 6
+  },
+  "callers": [
+    {
+      "contactId": "a09f7a32-6442-4ee6-be5d-1d26ec3075ec",
+      "combinedAudio": "worldbank-fcv-combined/a09f7a32-6442-4ee6-be5d-1d26ec3075ec_2021-09-18T00:09:22.649Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a09f7a32-6442-4ee6-be5d-1d26ec3075ec_2021-09-18T00%3A08%3A53.238%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a09f7a32-6442-4ee6-be5d-1d26ec3075ec_2021-09-18T00%3A08%3A53.593%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "This call is now being recorded. Please provide a feedback on quality of services. Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Fri Sep 17 2021 20:08:45 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Mm hmm. Mhm. Mm. Yeah, yeah. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/17/2021",
+      "feedbackType": "unknownFeedback"
+    },
+    {
+      "contactId": "15cd0996-112f-4fb9-b8c9-4d32303919bd",
+      "combinedAudio": "worldbank-fcv-combined/15cd0996-112f-4fb9-b8c9-4d32303919bd_2021-09-14T18:05:21.685Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/15cd0996-112f-4fb9-b8c9-4d32303919bd_2021-09-14T18%3A04%3A48.235%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/15cd0996-112f-4fb9-b8c9-4d32303919bd_2021-09-14T18%3A04%3A48.633%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "you have pressed three. Once done, Please Press one to end recording. ",
+      "callTimestamp": "Tue Sep 14 2021 14:04:39 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "I went to I want to the healthcare facility and put him right yesterday for a health emergency. I waited for three hours, but the doctor was absent. I heard on the radio that there was a doctor available on weekdays at the Health Center. But that wasn't the case. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/14/2021",
+      "feedbackType": "medFeedback"
+    },
+    {
+      "contactId": "f313bc49-b15c-4a36-9312-e8176e8e27ee",
+      "combinedAudio": "worldbank-fcv-combined/f313bc49-b15c-4a36-9312-e8176e8e27ee_2021-09-19T19:14:05.311Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/f313bc49-b15c-4a36-9312-e8176e8e27ee_2021-09-19T19%3A13%3A09.160%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/f313bc49-b15c-4a36-9312-e8176e8e27ee_2021-09-19T19%3A13%3A09.578%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You've reached the feedback number of the Europe Project. We appreciate your feedback. This call is being recorded. Any information provided will be kept confidential and we'll only be accessible by authorized staff. If you are comfortable, please tell us your name and location. If not press the star button. What are you calling about today? Press one for quality of services. Press two for doctors, availability. Press three for feedback related to medications. Press four for any other types of feedback. You have press four. Please provide feedback on their services you have used Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Sun Sep 19 2021 15:13:00 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Yes. Okay. See, that's the only the only again we took care Juniper Pardon? Okay? ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/19/2021",
+      "feedbackType": "otherFeedback"
+    },
+    {
+      "contactId": "a8ff7646-a903-4da4-ae7d-78ba163c8673",
+      "combinedAudio": "worldbank-fcv-combined/a8ff7646-a903-4da4-ae7d-78ba163c8673_2021-09-17T17:28:26.156Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a8ff7646-a903-4da4-ae7d-78ba163c8673_2021-09-17T17%3A27%3A53.989%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a8ff7646-a903-4da4-ae7d-78ba163c8673_2021-09-17T17%3A27%3A54.565%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Fri Sep 17 2021 13:27:44 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "I went to the healthcare facility and Boomer yesterday for a health emergency. I waited for three hours, but the doctor was absent. I heard on the radio that there is a doctor available available on weekdays at the House owner. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/17/2021",
+      "feedbackType": "unknownFeedback"
+    },
+    {
+      "contactId": "937631d2-4bdd-418f-b9b5-78361547de04",
+      "combinedAudio": "worldbank-fcv-combined/937631d2-4bdd-418f-b9b5-78361547de04_2021-09-16T23:30:27.743Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/937631d2-4bdd-418f-b9b5-78361547de04_2021-09-16T23%3A30%3A01.725%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/937631d2-4bdd-418f-b9b5-78361547de04_2021-09-16T23%3A30%3A02.285%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "In four. Terminate the year please. You have booked. I mean, they just put more ",
+      "callTimestamp": "Thu Sep 16 2021 19:29:52 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "About yesterday. Those schools Oh, Up? Yes, sir. Those Born. Goodnight trailer. This funny related this Medical meant ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/16/2021",
+      "feedbackType": "unknownFeedback"
+    },
+    {
+      "contactId": "cb8e7122-cde8-4c9a-a7f2-fa010b740684",
+      "combinedAudio": "worldbank-fcv-combined/cb8e7122-cde8-4c9a-a7f2-fa010b740684_2021-09-15T01:44:49.671Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/cb8e7122-cde8-4c9a-a7f2-fa010b740684_2021-09-15T01%3A44%3A09.772%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/cb8e7122-cde8-4c9a-a7f2-fa010b740684_2021-09-15T01%3A44%3A10.214%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You have pressed two. Once done, Please Press one to end recording. ",
+      "callTimestamp": "Tue Sep 14 2021 21:44:01 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Okay, so I went to the doctor's appointment today. Say. Okay? Hello. So I went to the doctor's appointment today. And, um, it took about three hours to get someone to give me an appointment, and I wanted to Uh, just say that. You know, this service was really slow. Is there any way I could, you know, maybe get faster service because of work. Um Yeah, That's pretty much the feedback that I wanted to give. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/14/2021",
+      "feedbackType": "doctorFeedback"
+    },
+    {
+      "contactId": "a1671659-997b-4d44-b9c1-f331b5af316a",
+      "combinedAudio": "worldbank-fcv-combined/a1671659-997b-4d44-b9c1-f331b5af316a_2021-09-19T19:04:27.581Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a1671659-997b-4d44-b9c1-f331b5af316a_2021-09-19T19%3A04%3A17.245%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/a1671659-997b-4d44-b9c1-f331b5af316a_2021-09-19T19%3A04%3A17.604%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "Transcript not available for this call",
+      "callTimestamp": "Sun Sep 19 2021 15:04:08 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Hello? Is that ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/19/2021",
+      "feedbackType": "unknownFeedback"
+    },
+    {
+      "contactId": "97499c0f-124a-4a6b-9eee-9a16fbaa139c",
+      "combinedAudio": "worldbank-fcv-combined/97499c0f-124a-4a6b-9eee-9a16fbaa139c_2021-09-19T03:34:51.860Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/97499c0f-124a-4a6b-9eee-9a16fbaa139c_2021-09-19T03%3A33%3A38.362%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/97499c0f-124a-4a6b-9eee-9a16fbaa139c_2021-09-19T03%3A33%3A38.659%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You've reached the feedback number of the Europe Project. We appreciate your feedback. This call is being recorded. Any information provided will be kept confidential and we'll only be accessible by authorized staff. If you are comfortable, please tell us your name and location. If not press the star button. What are you calling about today? Press one for quality of services. Press two for doctors, availability. Press three for feedback related to medications. Press. You have press two Please provide feedback on doctors availability. Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Sat Sep 18 2021 23:33:37 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Okay? Okay? Good. Louis Presencia Son Lease Obispo, California. I went to the healthcare facility in humor yesterday for a health emergency. I waited for three hours, but the doctor was absent. I heard on the radio that there is a doctor available on weekdays at the Health Center, but that was not the case. And I would like to report this. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/18/2021",
+      "feedbackType": "doctorFeedback"
+    },
+    {
+      "contactId": "87c3f45f-4d68-4804-b7e8-ee0a6a8fb39d",
+      "combinedAudio": "worldbank-fcv-combined/87c3f45f-4d68-4804-b7e8-ee0a6a8fb39d_2021-09-16T23:36:27.283Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/87c3f45f-4d68-4804-b7e8-ee0a6a8fb39d_2021-09-16T23%3A36%3A03.162%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/87c3f45f-4d68-4804-b7e8-ee0a6a8fb39d_2021-09-16T23%3A36%3A03.678%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "In four. Terminate the year please. You have booked. I mean, they just put more ",
+      "callTimestamp": "Thu Sep 16 2021 19:35:54 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "I put yesterday Pool correct address, let responsibility there's medicines. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/16/2021",
+      "feedbackType": "unknownFeedback"
+    },
+    {
+      "contactId": "305c6419-75fb-4ee5-b423-dcb72a5564ea",
+      "combinedAudio": "worldbank-fcv-combined/305c6419-75fb-4ee5-b423-dcb72a5564ea_2021-09-19T03:39:44.540Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/305c6419-75fb-4ee5-b423-dcb72a5564ea_2021-09-19T03%3A38%3A33.039%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/305c6419-75fb-4ee5-b423-dcb72a5564ea_2021-09-19T03%3A38%3A33.820%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You've reached the feedback number of the Europe Project. We appreciate your feedback. This call is being recorded. Any information provided will be kept confidential and we'll only be accessible by authorized staff. If you are comfortable, please tell us your name and location. If not press the star button. What are you calling about today? Press one for quality of services. Press two for doctors, availability. Press three for feedback related to medication. You have press three. Please provide feedback on any medications. Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Sat Sep 18 2021 23:38:32 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Mm. Louis percent here some ways of this book, California. Two days ago, I received medication for my doctor, but had an allergic reaction to it. I was wondering if I could talk to my doctor or at least provide feedback on this so that other people cannot cannot. Receive this medication. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/18/2021",
+      "feedbackType": "medFeedback"
+    },
+    {
+      "contactId": "04a9312d-e4ac-46e4-a1e8-be1962047dc2",
+      "combinedAudio": "worldbank-fcv-combined/04a9312d-e4ac-46e4-a1e8-be1962047dc2_2021-09-19T03:31:48.547Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/04a9312d-e4ac-46e4-a1e8-be1962047dc2_2021-09-19T03%3A30%3A24.437%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/04a9312d-e4ac-46e4-a1e8-be1962047dc2_2021-09-19T03%3A30%3A24.836%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You've reached the feedback number of the Europe Project. We appreciate your feedback. This call is being recorded. Any information provided will be kept confidential and we'll only be accessible by authorized staff. If you are comfortable, please tell us your name and location. If not press the star button. What are you calling about today? Press one for quality of services. Press two for doctors, availability. Press three for feedback related to medications. Press four for any other types of feedback. You have pressed one Please provide a feedback on quality of services. Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Sat Sep 18 2021 23:30:15 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Okay? With Placentia. Some. We've got this book, California. Mhm. I went to the healthcare facility and humor yesterday for a health emergency. And when I got there, the security guard, um assaulted me on the spot. And I wanted to report this because I do believe this is a, um, infringement on my rights. And, um, I think this was extremely wrong. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/18/2021",
+      "feedbackType": "serviceFeedback"
+    },
+    {
+      "contactId": "600e808f-9073-4fde-8efb-51c2fcdb4814",
+      "combinedAudio": "worldbank-fcv-combined/600e808f-9073-4fde-8efb-51c2fcdb4814_2021-09-19T03:42:06.236Z_COMBINED_AUDIO.wav",
+      "audioFromCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/600e808f-9073-4fde-8efb-51c2fcdb4814_2021-09-19T03%3A40%3A54.660%2B0000_AUDIO_FROM_CUSTOMER.wav",
+      "audioToCustomer": "https://worldbank-fcv-recordings.s3.amazonaws.com/recordings/600e808f-9073-4fde-8efb-51c2fcdb4814_2021-09-19T03%3A40%3A54.836%2B0000_AUDIO_TO_CUSTOMER.wav",
+      "contactTranscriptToCustomer": "You've reached the feedback number of the Europe Project. We appreciate your feedback. This call is being recorded. Any information provided will be kept confidential and we'll only be accessible by authorized staff. If you are comfortable, please tell us your name and location. If not What are you calling about today? Press one for quality of services. Press two for doctors, availability. Press three for feedback related to medications. Press four for any other types of feedback. You have pressed one Please provide a feedback on quality of services. Once done, Please Press one to end the recording. ",
+      "callTimestamp": "Sat Sep 18 2021 23:40:54 GMT-0400 (Eastern Daylight Time)",
+      "mergeStatus": "Complete",
+      "contactTranscriptFromCustomer": "Okay? Hm? I went to the healthcare facility and did not receive the appropriate care when I needed it. I had an emergency at home and I had to go right away. But when I got there, I had to wait three hours to receive. Uh Service. And I am extremely disappointed with this and would like to report it. ",
+      "customerPhoneNumber": "+18052060294",
+      "callDate": "9/18/2021",
+      "feedbackType": "serviceFeedback"
+    }
+  ],
+  "messagers": [
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "unknownFeedback",
+      "contactTranscriptFromCustomer": "is the database broken? let's find out!",
+      "messageTimestamp": "Mon Oct 18 02:31:53 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "medFeedback",
+      "contactTranscriptFromCustomer": "this is my feedback regarding my medicine!",
+      "messageTimestamp": "Mon Oct 18 02:33:04 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "otherFeedback",
+      "contactTranscriptFromCustomer": "serverless functions are cool!",
+      "messageTimestamp": "Mon Oct 18 02:33:49 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "otherFeedback",
+      "contactTranscriptFromCustomer": "this is a test from my phone",
+      "messageTimestamp": "Mon Oct 18 02:34:55 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "medFeedback",
+      "contactTranscriptFromCustomer": "cool test value",
+      "messageTimestamp": "Mon Oct 18 02:37:23 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "medFeedback",
+      "contactTranscriptFromCustomer": "epic",
+      "messageTimestamp": "Mon Oct 18 02:43:05 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+187175463",
+      "feedbackType": "otherFeedback",
+      "contactTranscriptFromCustomer": "this is some general feedback regarding the chatbot system.",
+      "messageTimestamp": "Mon Oct 18 17:12:50 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "otherFeedback",
+      "contactTranscriptFromCustomer": "my medication was the wrong one",
+      "messageTimestamp": "Mon Oct 18 21:03:40 2021",
+      "callDate": "10/18/2021"
+    },
+    {
+      "customerPhoneNumber": "+18054417747",
+      "feedbackType": "medFeedback",
+      "contactTranscriptFromCustomer": "this is a test",
+      "messageTimestamp": "Wed Oct 20 16:49:26 2021",
+      "callDate": "10/20/2021"
+    }
+  ],
+  "dates": [
+    "9/14/2021",
+    "9/16/2021",
+    "9/17/2021",
+    "9/18/2021",
+    "9/19/2021",
+    "10/18/2021",
+    "10/20/2021"
+  ],
+  "feedbackPerDay": [
+    2,
+    2,
+    2,
+    4,
+    2,
+    8,
+    1
+  ],
+  "serviceFeedback": [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0
+  ],
+  "doctorFeedback": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ],
+  "medFeedback": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    3,
+    1
+  ],
+  "otherFeedback": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    4,
+    0
+  ],
+  "unknownFeedback": [
+    0,
+    2,
+    2,
+    0,
+    1,
+    1,
+    0
+  ]
+}
